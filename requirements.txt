@@ -1,0 +1,13 @@
+flask
+pandas==1.5.3
+numpy==1.23.5
+scikit-learn==1.6.1
+joblib
+xgboost
+lightgbm
+seaborn
+matplotlib
+gunicorn
+python-dotenv
+requests
+scipy==1.10.1

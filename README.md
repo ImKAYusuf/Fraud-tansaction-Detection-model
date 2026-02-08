@@ -219,8 +219,7 @@ XGBOOSTClassification
 
 # 🚀 Deployment
 
-The model is deployed using **Flask** for real-time fraud prediction.
-
+The model is deployed using **Flask** for real-time fraud prediction. 
 ---
 
 
@@ -230,12 +229,14 @@ The model is deployed using **Flask** for real-time fraud prediction.
 
 ---
 
-# ⚙️ Installation
+## 🖥 Render Deployment 
 
-## 1️⃣ Clone Repository
-
-```bash
-git clone <your-repository-link>
-cd fraud-detection
+Url: https://fraud-tansaction-detection-model-5.onrender.com
 
 
+![Render Deployment](IMAGES/render%20deply.png)
+
+
+![Render Deployment](IMAGES/render%20deplyment%20testing.png)
+
+---
